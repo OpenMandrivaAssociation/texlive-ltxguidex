@@ -1,6 +1,6 @@
 Name:		texlive-ltxguidex
 Version:	50992
-Release:	1
+Release:	2
 Summary:	An extended ltxguide class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltxguidex
