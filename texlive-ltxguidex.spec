@@ -3,7 +3,7 @@ Version:	50992
 Release:	2
 Summary:	An extended ltxguide class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltxguidex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ltxguidex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltxguidex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltxguidex.doc.r%{version}.tar.xz
